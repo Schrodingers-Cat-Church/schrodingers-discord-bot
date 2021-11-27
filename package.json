@@ -1,0 +1,22 @@
+{
+  "name": "schrodingers-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Schrodingers Cat Church",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schrodingers-Cat-Church/schrodingers-discord-bot.git"
+  },
+  "author": "Schrodingers-Cat-Church",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Schrodingers-Cat-Church/schrodingers-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Schrodingers-Cat-Church/schrodingers-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
